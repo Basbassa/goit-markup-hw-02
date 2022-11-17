@@ -1,6 +1,20 @@
 .uppercase {
     text-transform: uppercase;
 }
+.description-big-letters {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16.41px;
+    letter-spacing: 3%;
+}
+.description-small-letters {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 3%;
+}
 .logo {
     font-family: "Raleway", sans-serif;
 }
