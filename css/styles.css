@@ -1,6 +1,14 @@
 .uppercase {
     text-transform: uppercase;
 }
+.description-h1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    letter-spacing: 6%;
+    text-align: center;
+}
 .description-big-letters {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
