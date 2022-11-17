@@ -24,6 +24,9 @@
     font-size: 26px;
     line-height: 35.96px;
 }
+.list-style {
+    list-style-type: none;
+}
 .nav-ul {
     font-family: "Roboto", sans-serif;
     color: #212121;
