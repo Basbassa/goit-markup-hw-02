@@ -23,6 +23,24 @@
     letter-spacing: 3%;
     text-align: center;
 }
+.description-human {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18.75px;
+    letter-spacing: 3%;
+    /* text-align: center; dodam jak poukładam zdjęcia na stronie */
+
+}
+.description-human-feint {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18.75px;
+    letter-spacing: 3%;
+    /* text-align: center; dodam jak poukładam zdjęcia na stronie */
+
+}
 .logo {
     font-family: "Raleway", sans-serif;
 }
