@@ -48,3 +48,18 @@
 .footer-background-color {
     background-color: #2f303a;
 }
+.address {
+    font-family: "Roboto", sans-serif;
+    color: #ffffff;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 3%;
+}
+.mail {
+    text-decoration: underline;
+}
+.address-grey {
+    color: white;
+}
