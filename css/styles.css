@@ -82,6 +82,9 @@
 .pointer {
     cursor: pointer;
 }
+.focus :focus {
+    color: rgb(53, 93, 77);
+}
 .header-mail-phone {
     color: #757575;
 }
