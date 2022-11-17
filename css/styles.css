@@ -24,6 +24,21 @@
     font-size: 26px;
     line-height: 35.96px;
 }
+.nav-ul {
+    font-family: "Roboto", sans-serif;
+    color: #212121;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16.41px;
+    letter-spacing: 2%;
+}
+.nav-ul :hover {
+    color: #2196f3;
+}
+
+.header-mail-phone {
+    color: #757575;
+}
 
 .no-decoration {
     text-decoration: none;
