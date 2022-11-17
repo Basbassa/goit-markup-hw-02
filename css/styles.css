@@ -15,6 +15,14 @@
     line-height: 24px;
     letter-spacing: 3%;
 }
+.description-main {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42.19px;
+    letter-spacing: 3%;
+    text-align: center;
+}
 .logo {
     font-family: "Raleway", sans-serif;
 }
