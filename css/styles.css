@@ -30,7 +30,6 @@
     line-height: 18.75px;
     letter-spacing: 3%;
     /* text-align: center; dodam jak poukładam zdjęcia na stronie */
-
 }
 .description-human-occupation {
     font-family: "Roboto", sans-serif;
@@ -39,7 +38,6 @@
     line-height: 18.75px;
     letter-spacing: 3%;
     /* text-align: center; dodam jak poukładam zdjęcia na stronie */
-
 }
 .logo {
     font-family: "Raleway", sans-serif;
@@ -81,7 +79,9 @@
 .nav-ul :hover {
     color: #2196f3;
 }
-
+.pointer {
+    cursor: pointer;
+}
 .header-mail-phone {
     color: #757575;
 }
