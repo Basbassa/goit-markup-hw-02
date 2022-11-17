@@ -75,9 +75,11 @@
     line-height: 24px;
     letter-spacing: 3%;
 }
-.mail {
+.mail-hover :hover {
     text-decoration: underline;
+
 }
+
 .address-grey {
-    color: white;
+    color: rgba(255, 255, 255, 0.6);
 }
