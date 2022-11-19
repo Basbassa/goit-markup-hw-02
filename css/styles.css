@@ -6,8 +6,9 @@ body {
 }
 
 .all-links :focus {
- color: rgb(53, 93, 77);
- cursor: pointer;}
+  color: rgb(53, 93, 77);
+  cursor: pointer;
+}
 
 .description-h1 {
   font-weight: 900;
