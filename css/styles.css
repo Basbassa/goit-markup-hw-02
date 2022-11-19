@@ -21,7 +21,6 @@ body {
 }
 
 .description-small-letters {
-  font-weight: 400;
   font-size: 14px;
   line-height: 24px;
   letter-spacing: 3%;
@@ -59,7 +58,7 @@ body {
 }
 
 .web {
-  color: #2196f3;
+  color: rgb(33, 150, 243);
   font-weight: 700;
   font-size: 26px;
   line-height: 30.52px;
@@ -67,14 +66,14 @@ body {
 }
 
 .studio {
-  color: #000000;
+  color: rgb(0, 0, 0);
   font-weight: 400;
   font-size: 26px;
   line-height: 35.96px;
 }
 
 .studio-white {
-  color: #ffffff;
+  color: rgb(255, 255, 255);
   font-weight: 400;
   font-size: 26px;
   line-height: 35.96px;
@@ -85,7 +84,7 @@ body {
 }
 
 .nav-ul-a {
-  color: #212121;
+  color: rgb(33, 33, 33);
   font-weight: 500;
   font-size: 14px;
   line-height: 16.41px;
@@ -93,7 +92,7 @@ body {
 }
 
 .nav-ul :hover {
-  color: #2196f3;
+  color: rgb(33, 150, 243);
 }
 
 .pointer {
@@ -105,7 +104,7 @@ body {
 }
 
 .header-mail-phone {
-  color: #757575;
+  color: rgb(117, 117, 117);
 }
 
 .no-decoration {
@@ -117,30 +116,30 @@ body {
   font-size: 18px;
   line-height: 36px;
   letter-spacing: 6%;
-  color: #212121;
+  color: rgba(33, 33, 33, 1);
 }
 
 .description-normal {
   font-size: 16px;
   line-height: 30px;
   letter-spacing: 3%;
-  color: #757575;
+  color: rgba(117, 117, 117, 1);
 }
 
 .header-background-color {
-  background-color: #ffffff;
+  background-color: rgb(255, 255, 255);
 }
 
 .main-background-color {
-  background-color: #ffffff;
+  background-color: rgb(255, 255, 255);
 }
 
 .footer-background-color {
-  background-color: #2f303a;
+  background-color: rgb(47, 48, 58);
 }
 
 .address {
-  color: #ffffff;
+  color: rgb(255, 255, 255);
   font-style: normal;
   font-size: 14px;
   line-height: 24px;
