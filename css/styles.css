@@ -8,7 +8,7 @@ body {
 .description-h1 {
   font-weight: 900;
   font-size: 44px;
-  line-height: 60px;
+  line-height: 1.36;
   letter-spacing: 0, 6em;
   text-align: center;
 }
@@ -16,20 +16,20 @@ body {
 .description-big-letters {
   font-weight: 700;
   font-size: 14px;
-  line-height: 16.41px;
+  line-height: 1.17;
   letter-spacing: 0, 3em;
 }
 
 .description-small-letters {
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.17;
   letter-spacing: 0, 3em;
 }
 
 .description-main {
   font-weight: 700;
   font-size: 36px;
-  line-height: 42.19px;
+  line-height: 1.17;
   letter-spacing: 0, 3em;
   text-align: center;
 }
@@ -37,14 +37,14 @@ body {
 .description-human {
   font-weight: 500;
   font-size: 16px;
-  line-height: 18.75px;
+  line-height: 1.17;
   letter-spacing: 0, 3em;
   /* TODO text-align: center; dodam jak poukładam zdjęcia na stronie */
 }
 
 .description-human-occupation {
   font-size: 16px;
-  line-height: 18.75px;
+  line-height: 1.17;
   letter-spacing: 0, 3em;
   /* TODO text-align: center; dodam jak poukładam zdjęcia na stronie */
 }
@@ -61,7 +61,7 @@ body {
   color: rgb(33, 150, 243);
   font-weight: 700;
   font-size: 26px;
-  line-height: 30.52px;
+  line-height: 1.17;
   letter-spacing: 0, 3em;
 }
 
@@ -69,14 +69,14 @@ body {
   color: rgb(0, 0, 0);
   font-weight: 400;
   font-size: 26px;
-  line-height: 35.96px;
+  line-height: 1.17;
 }
 
 .studio-white {
   color: rgb(255, 255, 255);
   font-weight: 400;
   font-size: 26px;
-  line-height: 35.96px;
+  line-height: 1.17;
 }
 
 .list-style {
@@ -87,7 +87,7 @@ body {
   color: rgb(33, 33, 33);
   font-weight: 500;
   font-size: 14px;
-  line-height: 16.41px;
+  line-height: 1.17;
   letter-spacing: 0, 2em;
 }
 
@@ -114,14 +114,14 @@ body {
 .description-bold {
   font-weight: 700;
   font-size: 18px;
-  line-height: 36px;
+  line-height: 2;
   letter-spacing: 0, 6em;
   color: rgba(33, 33, 33, 1);
 }
 
 .description-normal {
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.87;
   letter-spacing: 0, 3em;
   color: rgba(117, 117, 117, 1);
 }
@@ -141,7 +141,7 @@ body {
 .address {
   color: rgb(255, 255, 255);
   font-style: normal;
-  font-size: 14px;
+  font-size: 1.17;
   line-height: 24px;
   letter-spacing: 0, 3em;
 }
