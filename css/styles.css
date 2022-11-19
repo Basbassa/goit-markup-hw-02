@@ -1,9 +1,11 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
 .uppercase {
   text-transform: uppercase;
 }
 
 .description-h1 {
-  font-family: "Roboto", sans-serif;
   font-weight: 900;
   font-size: 44px;
   line-height: 60px;
@@ -12,7 +14,6 @@
 }
 
 .description-big-letters {
-  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 14px;
   line-height: 16.41px;
@@ -20,7 +21,6 @@
 }
 
 .description-small-letters {
-  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
@@ -28,7 +28,6 @@
 }
 
 .description-main {
-  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
   line-height: 42.19px;
@@ -37,7 +36,6 @@
 }
 
 .description-human {
-  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 18.75px;
@@ -46,8 +44,6 @@
 }
 
 .description-human-occupation {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
   font-size: 16px;
   line-height: 18.75px;
   letter-spacing: 3%;
@@ -89,7 +85,6 @@
 }
 
 .nav-ul-a {
-  font-family: "Roboto", sans-serif;
   color: #212121;
   font-weight: 500;
   font-size: 14px;
@@ -126,7 +121,6 @@
 }
 
 .description-normal {
-  font-weight: 400;
   font-size: 16px;
   line-height: 30px;
   letter-spacing: 3%;
@@ -146,10 +140,8 @@
 }
 
 .address {
-  font-family: "Roboto", sans-serif;
   color: #ffffff;
   font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 24px;
   letter-spacing: 3%;
