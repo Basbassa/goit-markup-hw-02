@@ -5,6 +5,10 @@ body {
   text-transform: uppercase;
 }
 
+.all-links :focus {
+ color: rgb(53, 93, 77);
+ cursor: pointer;}
+
 .description-h1 {
   font-weight: 900;
   font-size: 44px;
@@ -93,14 +97,6 @@ body {
 
 .nav-ul :hover {
   color: rgb(33, 150, 243);
-}
-
-.pointer {
-  cursor: pointer;
-}
-
-.focus :focus {
-  color: rgb(53, 93, 77);
 }
 
 .header-mail-phone {
